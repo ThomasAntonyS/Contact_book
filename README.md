@@ -3,7 +3,7 @@
 Hello Reader , 
 I have developed a " Contacat Book / Manager " Code using Java : 
 - In this code i have used Linked List for all the operation .
-- Basic Operations:
+- Basic Operations :
 
     1.Add new Contact
   
